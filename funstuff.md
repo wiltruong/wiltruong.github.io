@@ -21,6 +21,11 @@ This is a collection of work that I did for my visual design classes and other t
 
 <br>
 
+<i style="font-size:12px;">Super Slime Adventure</i>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kOHQVN347fM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<br>
+
 ![image]({{site.baseurl}}/assets/img/fn-st-1.png)
 <i style="font-size:12px;">(Right click and click on "View Image" to see the full thing)</i>
 
