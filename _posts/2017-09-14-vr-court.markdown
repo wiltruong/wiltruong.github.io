@@ -125,17 +125,48 @@ To get a better idea of what students wanted, me and my team went to perform sur
 <br>
 
 Our findings were:
- 
-- 73% had laptops compared to 27% had desktops
-- Student’s expectations of a “virtual courtroom” were a 3D courtroom environment that extended functionality beyond a Zoom or MS Teams call
-- The importance of mooting for students (mock trials), as it was a core activity for Law students at the OU Law program
+
+<br>
+
+<table>
+<colgroup>
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
+</colgroup>
+  <tr>
+    <th align="center"><i class="fas fa-laptop fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fas fa-cubes fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fas fa-exclamation fa-5x"></i><br></th>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">73% had laptops compared to 27% had desktops. This indicated the level of technology that students had, which we kept in mind regarding graphical requirements of the tool</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">Student’s expectations of a “virtual courtroom” were a 3D courtroom environment that extended functionality beyond a Zoom or MS Teams call</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">The importance of mooting for students (mock trials), as it was a core activity for Law students at the OU Law program</td>
+  </tr>
+</table>
+
+<br>
  
 We also interviewed current students, alumni (recent graduates), and lawyers who judge moots, to gain a further understanding of what their needs were and to get an idea of how these mock trials were run. 
  
 From our interviews, we found:
 
-- Video was important in a virtual environment as students want to read the judge’s reactions and body language just like in an in-person mock trial
-- Students want additional tools to help them track specific things like time and notes
+- When doing mooting (mock trials) virtually, video was very important as the student would read the judge's expressions and body lanugage when they are presenting their submissions
+- Students want additional tools to help them track specific things like time and notes, which meant that they wanted similar things like an in-person mooting session would have
 - The need for a higher-level interactive experience compared to Zoom or MS Teams
  
 It was quite clear that students want a tool to facilitate and learn mooting compared to what OU thought, was a tool to learn about the courtroom. This was in line with our assumptions that students wanted both.
