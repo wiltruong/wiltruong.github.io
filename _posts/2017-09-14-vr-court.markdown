@@ -130,8 +130,7 @@ While my team members focused on other aspects of the MVP like the back end, 3D 
  
 I also wanted an interesting way that would attract students to use this tool as we also found out that, not every student wants an extra piece of software to install or use. Some prefer the ease of use of Zoom or MS Teams, as it is very simple to set up. This was when I experimented with 3D menus, where it uses a 3D environment as a menu. The goal was to have something attractive while pushing the boundaries of UI design.
  
-![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
-<i style="font-size:12px;">Video</i>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/RSbapMcYYLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
  
 Although my concern was that this would be more diegetic rather than functional, so the idea was scrapped for something more straightforward:
  
