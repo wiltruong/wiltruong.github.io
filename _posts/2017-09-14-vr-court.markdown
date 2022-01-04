@@ -60,10 +60,14 @@ Remote learning has been always challenging due to the absence of in-person lear
 ### The start of a long journey
  
 We followed a design process that was developed by IDEO from the book called Design Thinking for Educators. It is focused on designing for students, so was perfect for us. The design process consisted of a framework of:
- 
-![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
 <i style="font-size:12px;">The design process from Design Thinking for Educators</i>
- 
+
+<br>
+
 Following this framework provided us a structure when designing and performing user testing on our prototypes.
 
 <br>
@@ -121,27 +125,58 @@ We picked a 3D virtual environment using Unity as a development platform. Based 
 ### Prototyping and beyond
  
 While my team members focused on other aspects of the MVP like the back end, 3D modeling, and development, my focus was the UI and visual design of the tool. I started creating a user flow in how students would navigate their way into the tool. My goals were to be as simple as possible because, from the surveys and research we performed, these students don’t have much technical knowledge so creating something straightforward will avoid problems.
- 
-![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-3.png)
 <i style="font-size:12px;">Menu flow</i>
- 
+
+<br>
+
 I also wanted an interesting way that would attract students to use this tool as we also found out that, not every student wants an extra piece of software to install or use. Some prefer the ease of use of Zoom or MS Teams, as it is very simple to set up. This was when I experimented with 3D menus, where it uses a 3D environment as a menu. The goal was to have something attractive while pushing the boundaries of UI design.
- 
+
+<br>
+
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/RSbapMcYYLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
- 
+
+<br>
+
 Although my concern was that this would be more diegetic rather than functional, so the idea was scrapped for something more straightforward:
- 
-![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-21.png)
 <i style="font-size:12px;">Wireframes</i>
- 
-![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
-<i style="font-size:12px;">First iteration</i>
- 
-![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
-<i style="font-size:12px;">Second iteration</i>
- 
-![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
-<i style="font-size:12px;">Third iterationp</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-4.png)
+<i style="font-size:12px;">First iteration - Menu</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-5.png)
+<i style="font-size:12px;">First iteration - Mode select</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-6.png)
+<i style="font-size:12px;">First iteration - Role select</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-7.png)
+<i style="font-size:12px;">Second iteration - Menu</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-8.png)
+<i style="font-size:12px;">Second iteration - Join screen</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-9.png)
+<i style="font-size:12px;">Second iteration - Avatar edit</i>
 
 <br>  
   
@@ -178,15 +213,30 @@ Along with this feedback, I focused on a few things:
 ### The final UI
  
 The most important aspect that was changed was simplifying the UI but also having a level of detail. This meant re-visiting fonts, the text, and also refining the overall layout of the UI. This came with changes to the user flow to keep it even more straightforward, so there wouldn’t be any frustration on the other side. Further features were added such as UI customization, being able to turn certain aspects of the UI on and off – This was to prevent distractions for the students when they are presenting their submissions in the mock trial.
- 
-![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
-<i style="font-size:12px;">Final UI</i>
- 
-![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
-<i style="font-size:12px;">Final UI</i>
- 
-![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
-<i style="font-size:12px;">Final UI</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-10.png)
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-11.png)
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-12.png)
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-13.png)
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-14.png)
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-15.png)
   
 <br>
  
@@ -215,14 +265,25 @@ As the MVP is finalized in the last few weeks of the project, such as final UI i
   
 ### Final MVP
  
-![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
-<i style="font-size:12px;">SS</i>
+<br>
+ 
+![image]({{site.baseurl}}/assets/img/vr-ft-16.png)
 
-![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
-<i style="font-size:12px;">SS</i>
+<br>
 
-![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
-<i style="font-size:12px;">SS</i>
+![image]({{site.baseurl}}/assets/img/vr-ft-17.png)
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-18.png)
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-19.png)
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-20.png)
   
 <br>
   
