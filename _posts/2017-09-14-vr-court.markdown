@@ -88,11 +88,42 @@ a 3D environment with avatars and learn the basics of the courtroom via interact
 ### Research and more research
  
 To get a better idea of what students wanted, me and my team went to perform surveys on students in the Law program. Our goal through these surveys was to:
- 
-- Determine the level of technology that students have
-- What is their comfort level with technology
-- What are their expectations of a Virtual Courtroom
- 
+
+<br>
+
+<table>
+<colgroup>
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
+</colgroup>
+  <tr>
+    <th align="center"><i class="fas fa-microchip fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fas fa-level-up-alt fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fas fa-smile fa-5x"></i><br></th>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">Determine the level of technology that students have</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">What is their comfort level with technology</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">What are their expectations of a Virtual Courtroom</td>
+  </tr>
+</table>
+
+<br>
+
 Our findings were:
  
 - 73% had laptops compared to 27% had desktops
