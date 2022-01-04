@@ -61,11 +61,8 @@ Remote learning has been always challenging due to the absence of in-person lear
  
 We followed a design process that was developed by IDEO from the book called Design Thinking for Educators. It is focused on designing for students, so was perfect for us. The design process consisted of a framework of:
  
-- Discovery
-- Interpretation
-- Ideation
-- Experimentation
-- Evolution
+![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
+<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
  
 Following this framework provided us a structure when designing and performing user testing on our prototypes.
 
