@@ -37,7 +37,7 @@ Being a designer means to me is the freedom to go beyond what everyone is doing.
 
 College + Activision/Adobe Creative Jam - Finalist
 
-Ubisoft Toronto NEXT 2020, User Interface Challenge - 2nd place / Finalist <a href="https://toronto.ubisoft.com/2020/05/2020-winners-of-the-ubisoft-toronto-next-challenge/">(Offical blog post)</a>
+Ubisoft Toronto NEXT 2020, User Interface Challenge - 2nd place / Finalist <a href="https://toronto.ubisoft.com/2020-winners-of-the-ubisoft-toronto-next-challenge/">(Offical blog post)</a>
 
 DeltaHacks VI - Participant
 
