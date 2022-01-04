@@ -202,11 +202,11 @@ Moving to the Ideation phase, we weighed our options:
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td align="center" style="vertical-align: top;">Virtual Reality</td>
+    <td align="center" style="vertical-align: top;">Virtual Reality: We looked at this during our Ideation phase and saw it was not feasble due to the cost of the technology required for students and the hardware needed to power it.</td>
     <td></td>
-    <td align="center" style="vertical-align: top;">Deluxe Zoom</td>
+    <td align="center" style="vertical-align: top;">Deluxe Zoom: Students we spoke with felt that Zoom or Teams was not immersive and didn't provide an experience close to a in-person mooting (mock trial) session.</td>
     <td></td>
-    <td align="center" style="vertical-align: top;">3D Virtual Environment</td>
+    <td align="center" style="vertical-align: top;">3D Virtual Environment: The use of avatars in a courtroom environment would provide a level of immersion and also interaction, since it would be multiplayer. We looked into Unity and saw a big opportunity in integrating different technologies to make this possible.</td>
   </tr>
 </table>
 
@@ -411,7 +411,7 @@ As the MVP is finalized in the last few weeks of the project, such as final UI i
   
 <br>
   
-### Takeaways
+### The Takeaways
  
 > Talking to the user base is important
  
