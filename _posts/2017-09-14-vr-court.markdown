@@ -133,6 +133,7 @@ Our findings were:
 We also interviewed current students, alumni (recent graduates), and lawyers who judge moots, to gain a further understanding of what their needs were and to get an idea of how these mock trials were run. 
  
 From our interviews, we found:
+
 - Video was important in a virtual environment as students want to read the judge’s reactions and body language just like in an in-person mock trial
 - Students want additional tools to help them track specific things like time and notes
 - The need for a higher-level interactive experience compared to Zoom or MS Teams
@@ -144,10 +145,41 @@ It was quite clear that students want a tool to facilitate and learn mooting com
 ### What are our options?
  
 Moving to the Ideation phase, we weighed our options:
- 
-- VR
-- “Deluxe Zoom”
-- 3D Virtual Environment
+
+<br>
+
+<table>
+<colgroup>
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
+</colgroup>
+  <tr>
+    <th align="center"><i class="fas fa-vr-cardboard fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fas fa-chalkboard-teacher fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fas fa-cube fa-5x"></i><br></th>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">Virtual Reality</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">Deluxe Zoom</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">3D Virtual Environment</td>
+  </tr>
+</table>
+
+<br>
  
 We picked a 3D virtual environment using Unity as a development platform. Based on our primary research, students wanted an interactive experience that used video and audio. Since Unity was very flexible as a development platform (i.e. video, audio, matchmaking), we saw an opportunity to use it for the MVP.
 
