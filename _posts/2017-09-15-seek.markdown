@@ -242,10 +242,6 @@ With my insights, I decided to move in a different direction:
 > How might we improve student engagement in an online class to create a positive and collaborative learning environment?
  
 This is because the new direction provides a focus as the problem lies with students engaging in class rather than on the Professor/Instructor side. From the interviews and insights, it was clear that Professors use strategies to engage students but ultimately it is up to the student to put in that effort. This creates a question of if a student doesn’t engage and becomes “invisible.” How would the professor identify these “invisible” students who don’t engage? How can they identify these students to ensure that they are doing well? This created a lot of questions, which resulted in going back to the Define stage to further understand the problem space and identify a potential solution.
- 
-I decided to do more design research like affinity mapping, more observational research, as is/to be scenarios, and needs statements, which led me to:
-
-> Professors/Instructors need a way to improve student engagement in an online class because it provides a meaningful connection between the course content and processor/instructor.
 
 <br>
 
@@ -261,6 +257,12 @@ I decided to do more design research like affinity mapping, more observational r
 
 ![image]({{site.baseurl}}/assets/img/sk-ft-5.png)
 <i style="font-size:12px;">As Is/To Be Scenario</i>
+
+<br>
+ 
+I decided to do more design research like affinity mapping, more observational research, as is/to be scenarios, and needs statements, which led me to:
+
+> Professors/Instructors need a way to improve student engagement in an online class because it provides a meaningful connection between the course content and processor/instructor.
  
 <br>
 
