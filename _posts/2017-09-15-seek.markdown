@@ -287,8 +287,6 @@ Since it is a Zoom app, it appears on the left-hand side (just like any Zoom app
 The dashboard component of the app shows more detailed information and uses data visualization to display that data simplistically. There is also functionality to identify which student didn’t participate in the lecture.
 
 <br>
-
-### Final prototype
  
 User testing was done with the app in the form of showing mock-ups and asking for feedback. Since this project didn’t require a fully functional app, I took advantage of showing the prototype through XD to as many people as possible (i.e. professors and teacher assistants).
  
@@ -297,13 +295,15 @@ The feedback gained was:
 -	Thinking about how this data is used in the context of student engagement.
 -	At the end of the day, this data isn’t a representation of the student’s learning.
 -	How different types of teachers would be comfortable looking at this data.
- 
+
+<br>
+
+### Final prototype
+
 Using the feedback from user testing, several changes were made for the final prototype:
  
 -	Addition of customization buttons, so the Professor or teacher can turn on and off different parts of the app. Being able to turn certain aspects on and off can decrease anxiety when teaching, especially if the Professor is new to teaching.
 -	There wasn’t much iteration for this part of the app as the feedback was generally good and didn’t require too much change to the overall UI.
-
-<br>
 
 ![image]({{site.baseurl}}/assets/img/sk-ft-8.png)
 
