@@ -245,21 +245,22 @@ This is because the new direction provides a focus as the problem lies with stud
  
 I decided to do more design research like affinity mapping, more observational research, as is/to be scenarios, and needs statements, which led me to:
 
+> Professors/Instructors need a way to improve student engagement in an online class because it provides a meaningful connection between the course content and processor/instructor.
+
 <br>
 
 ![image]({{site.baseurl}}/assets/img/sk-ft-3.png)
+<i style="font-size:12px;">Affinity Mapping</i>
 
 <br>
 
 ![image]({{site.baseurl}}/assets/img/sk-ft-4.png)
+<i style="font-size:12px;">Needs Statements</i>
 
 <br>
 
 ![image]({{site.baseurl}}/assets/img/sk-ft-5.png)
-
-<br>
- 
-> Professors/Instructors need a way to improve student engagement in an online class because it provides a meaningful connection between the course content and processor/instructor.
+<i style="font-size:12px;">As Is/To Be Scenario</i>
  
 <br>
 
