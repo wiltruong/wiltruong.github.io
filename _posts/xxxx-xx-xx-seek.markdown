@@ -55,7 +55,7 @@ tags: [UX, UI, User Research, Design Research, Prototyping] # add tag
  
 In mid-2020, when the pandemic started, every post-secondary school shifted to remote learning. Professors, instructors, and teachers were faced with the challenge of reconfiguring their courses to adjust for online learning. Now in the present: Zoom, Teams, and other online learning platforms are now the norm, but it isn’t just the same as it used to be.
  
-picture
+![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
 
 <br>  
   
@@ -72,57 +72,154 @@ This curiosity became the motivation and the goal of the project, which is: inst
 ### Design principles and psychological factors
  
 To guide the project, I used two design principles and two psychological as a foundation. As the project progressed, these design principles and psychological factors changed to suit the needs of the direction of the project.
- 
--	Chunking
--	Comparison
--	Confidence Triggers Decisions
--	People Expect Online Interactions to Follow Social Rules
 
-<br>  
+<br>
+
+<table>
+<colgroup>
+<col width="21%" />
+<col width="5%" />
+<col width="21%" />
+<col width="5%" />
+<col width="21%" />
+<col width="5%" />
+<col width="21%" />
+</colgroup>
+  <tr>
+    <th align="center"><i class="fa fa-heart fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fa fa-meh fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fa fa-arrows-alt-h fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fa fa-arrows-alt-h fa-5x"></i><br></th>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">Chunking</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">Comparison</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">Confidence Triggers Decisions</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">People Expect Online Interactions to Follow Social Rules</td>
+  </tr>
+</table>
+
+<br>   
 
 ### Not the be-all and end-all solution
  
 As I moved forward with the project, I realized that there are many other strategies and solutions out there that solve the challenges associated with teaching remotely (i.e. work-life balance separation, strategies, and such). One important thing was that I recognized that my end solution isn’t a be-all and end-all solution, but rather I want to contribute to solving this issue and creating awareness using the research that I gained.
  
 I developed four assumptions that I went into the project – Before doing the research:
- 
--	Professors/instructors are not as engaged with students when students don’t turn on their cameras.
--	This assumption came from personal observation in a class where no one (including the professor) turned on their camera. It seemed to be that the professor didn’t engage the class enough so it got boring.
-
--	Professors/instructors feel isolated, which affects their mentality when teaching the class.
--	Teaching remotely could be isolating as they are talking to a computer screen rather than in front of students (in-person). It’s hard to identify visual cues and other physical aspects (i.e. faces).
-
--	Students don’t care much about the class since they don’t turn on their cameras and are busy with other things.
--	It is clear that remote learning has its perks, students can “multitask” while listening to a lecture or doing other things. Compared to in-person learning, where their full attention needs to be available. This, in essence, would perceive that the student doesn’t care much from the instructor/professor’s perspective.
-
--	Teaching online is not as engaging as teaching in-class
--	Teaching in-class is engaging as the instructor/professor can easily identify visual cues like facial expressions and body language - This in essence makes the environment more engaging as the instructor/professor can tailor their teaching style to be more engaging.
 
 <br>
+
+<table>
+<colgroup>
+<col width="21%" />
+<col width="5%" />
+<col width="21%" />
+<col width="5%" />
+<col width="21%" />
+<col width="5%" />
+<col width="21%" />
+</colgroup>
+  <tr>
+    <th align="center"><i class="fa fa-heart fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fa fa-meh fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fa fa-arrows-alt-h fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fa fa-arrows-alt-h fa-5x"></i><br></th>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">Professors/instructors are not as engaged with students when students don’t turn on their cameras: This assumption came from personal observation in a class where no one (including the professor) turned on their camera. It seemed to be that the professor didn’t engage the class enough so it got boring.</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">Professors/instructors feel isolated, which affects their mentality when teaching the class: Teaching remotely could be isolating as they are talking to a computer screen rather than in front of students (in-person). It’s hard to identify visual cues and other physical aspects (i.e. faces).</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">Students don’t care much about the class since they don’t turn on their cameras and are busy with other things: It is clear that remote learning has its perks, students can “multitask” while listening to a lecture or doing other things. Compared to in-person learning, where their full attention needs to be available. This, in essence, would perceive that the student doesn’t care much from the instructor/professor’s perspective.</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">Teaching online is not as engaging as teaching in-class: Teaching in-class is engaging as the instructor/professor can easily identify visual cues like facial expressions and body language - This in essence makes the environment more engaging as the instructor/professor can tailor their teaching style to be more engaging.</td>
+  </tr>
+</table>
+
+<br>   
 
 ### The plan
  
 To be organized with the project, I used the tried and true “Double Diamond” design process which provided a framework and structure to my exploration and research. I used this design process because it is focused on the user (i.e. instructors, professors, and teachers) and research. In addition to this, the process also factors in continuous feedback and iteration, which will help narrow down the potential solution to the problem.
 
-picture
+![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
 
 <br>
 
 ### Research, research, and more research
  
 To fully understand what professors or teachers go through when teaching online, both primary and secondary research needed to be done. I started with secondary research, to get a general feel of the landscape and found:
- 
--	Everything points to “Pandemic Fatigue.”
--	From the WHO, pandemic fatigue is the de-motivation to engage in protection behaviours from COVID-19. In this case, remote teaching, zoom fatigue, and other things. Most of these contribute things like burnout, lack of motivation, which affect the teaching environment.
 
--	There are reasons why students turn off their cameras.
--	There are ethical issues when forcing students to turn on their cameras. Generally, students don’t want to be judged for their environment. It could be their internet connection or even not having the technology to do so.
 
--	Remote teaching currently isn’t sustainable.
--	The current model of remote online learning and teaching isn’t sustainable, because engagement with the student is very difficult. It is possible but it puts a lot of strain on the teacher and the student.
+<br>
 
--	Teachers are spending more time preparing.
--	Compared to in-class teaching, preparing for online classes requires more time due to technology. Making sure links work, preparing lessons specifically for online delivery, recording videos, and so much more. This affects the mental health of teachers as they have to spend more time working.
+<table>
+<colgroup>
+<col width="21%" />
+<col width="5%" />
+<col width="21%" />
+<col width="5%" />
+<col width="21%" />
+<col width="5%" />
+<col width="21%" />
+</colgroup>
+  <tr>
+    <th align="center"><i class="fa fa-heart fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fa fa-meh fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fa fa-arrows-alt-h fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fa fa-arrows-alt-h fa-5x"></i><br></th>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">Everything points to Pandemic Fatigue: From the WHO, pandemic fatigue is the de-motivation to engage in protection behaviours from COVID-19. In this case, remote teaching, zoom fatigue, and other things. Most of these contribute things like burnout, lack of motivation, which affect the teaching environment.</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">There are reasons why students turn off their cameras: There are ethical issues when forcing students to turn on their cameras. Generally, students don’t want to be judged for their environment. It could be their internet connection or even not having the technology to do so.</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">Remote teaching currently isn’t sustainable: The current model of remote online learning and teaching isn’t sustainable, because engagement with the student is very difficult. It is possible but it puts a lot of strain on the teacher and the student.</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">Teachers are spending more time preparing: Compared to in-class teaching, preparing for online classes requires more time due to technology. Making sure links work, preparing lessons specifically for online delivery, recording videos, and so much more. This affects the mental health of teachers as they have to spend more time working.</td>
+  </tr>
+</table>
+
+<br>   
 
 I performed observational research and interviews to further understand what professors go through in my classes and program. For my observational research, I used the AEIOU framework (Activities, Environments, Interactions, Objects, and Users) to observe my 4th-year classes to see how professors engage with students. My findings from my observational research were:
  
@@ -154,24 +251,53 @@ My findings were:
 ### Translating everything
  
 Synthesizing everything from my interviews, observations, and secondary research, my insights were:
- 
--	Professors/Instructors have accepted teaching in online classes and having strategies to mitigate that pandemic fatigue. Adaption is key and going through the challenges at the beginning of the pandemic, helped.
--	Both the professor and student need to put in that effort (more on the student side) to engage with each other to create a positive learning (or teaching) environment.
--	Visual feedback is critical in a learning environment but is very difficult to find that feedback when students have their cameras off. Professors are using tools/strategies to assist them in identifying progress in a student.
 
 <br>
+
+<table>
+<colgroup>
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
+</colgroup>
+  <tr>
+    <th align="center"><i class="fa fa-heart fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fa fa-meh fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fa fa-arrows-alt-h fa-5x"></i><br></th>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">Professors/Instructors have accepted teaching in online classes and having strategies to mitigate that pandemic fatigue. Adaption is key and going through the challenges at the beginning of the pandemic, helped.</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">Both the professor and student need to put in that effort (more on the student side) to engage with each other to create a positive learning (or teaching) environment.</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">Visual feedback is critical in a learning environment but is very difficult to find that feedback when students have their cameras off. Professors are using tools/strategies to assist them in identifying progress in a student.</td>
+  </tr>
+</table>
+
+<br>   
 
 ### A new direction
  
 With my insights, I decided to move in a different direction:
  
-How might we improve student engagement in an online class to create a positive and collaborative learning environment?
+> How might we improve student engagement in an online class to create a positive and collaborative learning environment?
  
 This is because the new direction provides a focus as the problem lies with students engaging in class rather than on the Professor/Instructor side. From the interviews and insights, it was clear that Professors use strategies to engage students but ultimately it is up to the student to put in that effort. This creates a question of if a student doesn’t engage and becomes “invisible.” How would the professor identify these “invisible” students who don’t engage? How can they identify these students to ensure that they are doing well? This created a lot of questions, which resulted in going back to the Define stage to further understand the problem space and identify a potential solution.
  
 With a new direction, I decided to do more design research like affinity mapping, more observational research, as is/to be scenarios, and needs statements, which led me to:
  
-Professors/Instructors need a way to improve student engagement in an online class because it provides a meaningful connection between the course content and processor/instructor.
+> Professors/Instructors need a way to improve student engagement in an online class because it provides a meaningful connection between the course content and processor/instructor.
  
 <br>
 
@@ -179,11 +305,11 @@ Professors/Instructors need a way to improve student engagement in an online cla
  
 Mock-ups were created to show the functionality of a Zoom app, which is called “Seek.” I decided to use Zoom as a platform because Zoom is frequently used for online synchronous learning. It integrates into Zoom and has dashboard functionality outside of the app.
  
-picture
+![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
  
 Since it is a Zoom app, it appears on the left-hand side (just like any Zoom app), the Professor can view quickly through a simple data visualization of the student engagement via microphone or video. The app also highlights different students who didn’t participate, allowing the Professor to call out or work closely with that student to ensure they are understanding the content.
  
-picture
+![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
  
 The dashboard component of the app shows more detailed information and uses data visualization to display that data simplistically. There is also functionality to identify which student didn’t participate in the lecture.
 
@@ -207,7 +333,7 @@ Using the feedback from user testing, several changes were made for the final pr
 
 -	There wasn’t much iteration for this part of the app as the feedback was generally good and didn’t require too much change to the overall UI.
  
-picture
+![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
  
 For the dashboard, several changes were made:
  
@@ -216,7 +342,7 @@ For the dashboard, several changes were made:
 -	Improving the overall dashboard by “humanizing” the dashboard and addition of graphics so it is friendly to the user.
 -	Adjusting colours and various text.
  
-picture
+![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
  
 Several goals would benefit a Professor (or teacher) using this app:
  
@@ -232,15 +358,15 @@ Several goals would benefit a Professor (or teacher) using this app:
 
 ### The takeaways
  
-Applying what I learned in my courses
+> Applying what I learned in my courses
  
 Through the three years in the Interaction Design programs, I learned the fundamentals of design to user-centered design to understanding how to design for people. I realized the skills that I gained through my courses, this project was a test of those skills and also challenging them. I found that I have still much to learn like my user research skills and applying design principles and psychological factors into my designs. Not only this but I continue to learn a lot about myself as a designer and what I can improve on next time around.
  
-Pushing myself as a designer
+> Pushing myself as a designer
  
 Sometimes I question myself as a designer if my process is correct or even if my solution makes sense or not. What made me move forward for this project was pushing myself to create something – Even if it was terrible. The realization that at times our ideas can be bad, didn’t come into my head until that point in time. By pushing forward and laying out what I had, in terms of my research and ideas, I saw a path that I was able to go towards. I think that not thinking about failure, not worrying about the overall design, and simply just “doing it” helped me focus on the prototype and eventually got me moving to finish the project overall.
  
-Designing for others
+> Designing for others
  
 This project challenged me, not only as a designer but as an individual as well. It taught me how I can design for others, but the most important thing is using empathy to understand the other side. Throughout the project, I kept the user in focus, and understanding what they felt when they are teaching online was very important to me. I felt what they felt when I was asking my professors questions and started realizing as a student, that engagement during class was critical. I could never forget this feeling and it’s something that I look to bring forward to my design career.
 
