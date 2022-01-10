@@ -153,13 +153,13 @@ I developed four assumptions that I went into the project – Before doing the r
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td align="center" style="vertical-align: top;">Professors/instructors are not as engaged with students when students don’t turn on their cameras: This assumption came from personal observation in a class where no one (including the professor) turned on their camera. It seemed to be that the professor didn’t engage the class enough so it got boring.</td>
+    <td align="center" style="vertical-align: top;">Professors/instructors are not as engaged with students when students don’t turn on their cameras</td>
     <td></td>
-    <td align="center" style="vertical-align: top;">Professors/instructors feel isolated, which affects their mentality when teaching the class: Teaching remotely could be isolating as they are talking to a computer screen rather than in front of students (in-person). It’s hard to identify visual cues and other physical aspects (i.e. faces).</td>
+    <td align="center" style="vertical-align: top;">Professors/instructors feel isolated, which affects their mentality when teaching the class</td>
     <td></td>
-    <td align="center" style="vertical-align: top;">Students don’t care much about the class since they don’t turn on their cameras and are busy with other things: It is clear that remote learning has its perks, students can “multitask” while listening to a lecture or doing other things. Compared to in-person learning, where their full attention needs to be available. This, in essence, would perceive that the student doesn’t care much from the instructor/professor’s perspective.</td>
+    <td align="center" style="vertical-align: top;">Students don’t care much about the class since they don’t turn on their cameras and are busy with other things</td>
     <td></td>
-    <td align="center" style="vertical-align: top;">Teaching online is not as engaging as teaching in-class: Teaching in-class is engaging as the instructor/professor can easily identify visual cues like facial expressions and body language - This in essence makes the environment more engaging as the instructor/professor can tailor their teaching style to be more engaging.</td>
+    <td align="center" style="vertical-align: top;">Teaching online is not as engaging as teaching in-class</td>
   </tr>
 </table>
 
@@ -209,13 +209,13 @@ To fully understand what professors or teachers go through when teaching online,
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td align="center" style="vertical-align: top;">Everything points to Pandemic Fatigue: From the WHO, pandemic fatigue is the de-motivation to engage in protection behaviours from COVID-19. In this case, remote teaching, zoom fatigue, and other things. Most of these contribute things like burnout, lack of motivation, which affect the teaching environment.</td>
+    <td align="center" style="vertical-align: top;">Everything points to Pandemic Fatigue: In this case, remote teaching, zoom fatigue, and other factors. Most of these contribute things like burnout, lack of motivation, which affect the teaching environment.</td>
     <td></td>
-    <td align="center" style="vertical-align: top;">There are reasons why students turn off their cameras: There are ethical issues when forcing students to turn on their cameras. Generally, students don’t want to be judged for their environment. It could be their internet connection or even not having the technology to do so.</td>
+    <td align="center" style="vertical-align: top;">There are reasons why students turn off their cameras: Students don’t want to be judged for their environment. It could be their internet connection or even not having the technology to do so.</td>
     <td></td>
-    <td align="center" style="vertical-align: top;">Remote teaching currently isn’t sustainable: The current model of remote online learning and teaching isn’t sustainable, because engagement with the student is very difficult. It is possible but it puts a lot of strain on the teacher and the student.</td>
+    <td align="center" style="vertical-align: top;">Remote teaching currently isn’t sustainable: Online synchronous learning is very difficult. It puts a lot of strain on the teacher and the student.</td>
     <td></td>
-    <td align="center" style="vertical-align: top;">Teachers are spending more time preparing: Compared to in-class teaching, preparing for online classes requires more time due to technology. Making sure links work, preparing lessons specifically for online delivery, recording videos, and so much more. This affects the mental health of teachers as they have to spend more time working.</td>
+    <td align="center" style="vertical-align: top;">Teachers are spending more time preparing: Preparing for online classes requires more time due to technology. Making sure links work, preparing lessons specifically for online delivery, recording videos, and so much more.</td>
   </tr>
 </table>
 
