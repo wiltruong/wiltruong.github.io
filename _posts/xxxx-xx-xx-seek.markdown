@@ -118,7 +118,9 @@ To guide the project, I used two design principles and two psychological as a fo
  
 To be organized with the project, I used the tried and true “Double Diamond” design process which provided a framework and structure to my exploration and research. I used this design process because it is focused on the user (i.e. instructors, professors, and teachers) and research. In addition to this, the process also factors in continuous feedback and iteration, which will help narrow down the potential solution to the problem.
 
-![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
+<br>
+
+![image]({{site.baseurl}}/assets/img/sk-ft-2.png)
 
 <br>
 
@@ -242,12 +244,20 @@ With my insights, I decided to move in a different direction:
 This is because the new direction provides a focus as the problem lies with students engaging in class rather than on the Professor/Instructor side. From the interviews and insights, it was clear that Professors use strategies to engage students but ultimately it is up to the student to put in that effort. This creates a question of if a student doesn’t engage and becomes “invisible.” How would the professor identify these “invisible” students who don’t engage? How can they identify these students to ensure that they are doing well? This created a lot of questions, which resulted in going back to the Define stage to further understand the problem space and identify a potential solution.
  
 I decided to do more design research like affinity mapping, more observational research, as is/to be scenarios, and needs statements, which led me to:
- 
-![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
 
-![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
+<br>
 
-![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
+![image]({{site.baseurl}}/assets/img/sk-ft-3.png)
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/sk-ft-4.png)
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/sk-ft-5.png)
+
+<br>
  
 > Professors/Instructors need a way to improve student engagement in an online class because it provides a meaningful connection between the course content and processor/instructor.
  
@@ -256,13 +266,21 @@ I decided to do more design research like affinity mapping, more observational r
 ### Prototyping and testing
  
 Mock-ups were created to show the functionality of a Zoom app, which is called “Seek.” I decided to use Zoom as a platform because Zoom is frequently used for online synchronous learning. It integrates into Zoom and has dashboard functionality outside of the app.
- 
-![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
- 
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+
+<br>
+
 Since it is a Zoom app, it appears on the left-hand side (just like any Zoom app), the Professor can view quickly through a simple data visualization of the student engagement via microphone or video. The app also highlights different students who didn’t participate, allowing the Professor to call out or work closely with that student to ensure they are understanding the content.
- 
-![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
- 
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/sk-ft-7.png)
+
+<br>
+
 The dashboard component of the app shows more detailed information and uses data visualization to display that data simplistically. There is also functionality to identify which student didn’t participate in the lecture.
 
 <br>
@@ -280,26 +298,31 @@ The feedback gained was:
 Using the feedback from user testing, several changes were made for the final prototype:
  
 -	Addition of customization buttons, so the Professor or teacher can turn on and off different parts of the app. Being able to turn certain aspects on and off can decrease anxiety when teaching, especially if the Professor is new to teaching.
-
 -	There wasn’t much iteration for this part of the app as the feedback was generally good and didn’t require too much change to the overall UI.
- 
-![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
- 
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/sk-ft-8.png)
+
+<br>
+
 For the dashboard, several changes were made:
  
 -	Making the overall graph customizable with colour, type, and also what data it is showing.
 -	Moving some aspects of the dashboard so it reads from high-level information to more granular (detailed) data.
 -	Improving the overall dashboard by “humanizing” the dashboard and addition of graphics so it is friendly to the user.
 -	Adjusting colours and various text.
- 
-![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
- 
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/sk-ft-9.png)
+
+<br>
+
 Several goals would benefit a Professor (or teacher) using this app:
  
 -	Professors can easily gauge how their classes are doing at a glance. Chunking the data into different sections allows the Professor to easily understand that data and make a quick decision on whether if their strategy is working or not.
-
 -	The app identifies who isn’t participating in the class, which would provide an opportunity to the Professor to follow up with the student or use other strategies for engagement in class (i.e. breakout rooms, group work).
-
 -	Providing a level of customizability for the Professor so they can compare other classes that they teach and see what strategies are working and what isn’t working.
 
 <br>
