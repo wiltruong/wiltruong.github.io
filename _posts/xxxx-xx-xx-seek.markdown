@@ -55,8 +55,6 @@ tags: [UX, UI, User Research, Design Research, Prototyping] # add tag
  
 In mid-2020, when the pandemic started, every post-secondary school shifted to remote learning. Professors, instructors, and teachers were faced with the challenge of reconfiguring their courses to adjust for online learning. Now in the present: Zoom, Teams, and other online learning platforms are now the norm, but it isn’t just the same as it used to be.
  
-![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
-
 <br>  
   
 ### Understanding the current state of teaching online classes
@@ -114,56 +112,7 @@ To guide the project, I used two design principles and two psychological as a fo
   </tr>
 </table>
 
-<br>   
-
-### Not the be-all and end-all solution
- 
-As I moved forward with the project, I realized that there are many other strategies and solutions out there that solve the challenges associated with teaching remotely (i.e. work-life balance separation, strategies, and such). One important thing was that I recognized that my end solution isn’t a be-all and end-all solution, but rather I want to contribute to solving this issue and creating awareness using the research that I gained.
- 
-I developed four assumptions that I went into the project – Before doing the research:
-
 <br>
-
-<table>
-<colgroup>
-<col width="21%" />
-<col width="5%" />
-<col width="21%" />
-<col width="5%" />
-<col width="21%" />
-<col width="5%" />
-<col width="21%" />
-</colgroup>
-  <tr>
-    <th align="center"><i class="fa fa-camera fa-5x"></i><br></th>
-    <th></th>
-    <th align="center"><i class="fa fa-house-user fa-5x"></i><br></th>
-    <th></th>
-    <th align="center"><i class="fa fa-ban fa-5x"></i><br></th>
-    <th></th>
-    <th align="center"><i class="fa fa-people-arrows fa-5x"></i><br></th>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="center" style="vertical-align: top;">Professors/instructors are not as engaged with students when students don’t turn on their cameras</td>
-    <td></td>
-    <td align="center" style="vertical-align: top;">Professors/instructors feel isolated, which affects their mentality when teaching the class</td>
-    <td></td>
-    <td align="center" style="vertical-align: top;">Students don’t care much about the class since they don’t turn on their cameras and are busy with other things</td>
-    <td></td>
-    <td align="center" style="vertical-align: top;">Teaching online is not as engaging as teaching in-class</td>
-  </tr>
-</table>
-
-<br>   
 
 ### The plan
  
@@ -176,7 +125,6 @@ To be organized with the project, I used the tried and true “Double Diamond”
 ### Research, research, and more research
  
 To fully understand what professors or teachers go through when teaching online, both primary and secondary research needed to be done. I started with secondary research, to get a general feel of the landscape and found:
-
 
 <br>
 
@@ -243,8 +191,6 @@ My findings were:
 -	Both sides need to make effort to engage each other to create a positive learning environment, where the professor can provide that support closely with the student.
 -	Technology plays a huge role in that fatigue and can affect someone who is just starting to teach or even learning telecommunication conference software like Zoom or other online tools for teaching online.
 -	Professors understand the problems of students regarding turning on their cameras but it should be expected by now that they should maximize that engagement in the classroom and create a positive environment.
--	To reduce pandemic fatigue, some strategies are used to separate work and life - Things like having only a certain amount of hours for student questions or meetings, or allowing meetings when the student contacts the professor, instead of putting office hours
--	Teaching assistants (i.e. PAL Leaders) feel the same way, despite them being students as well - They find other strategies to engage with the student like common interests, current relatable themes (i.e. memes), and even talking about future years in the program, can invoke that engagement.
 
 <br>
 
@@ -295,7 +241,13 @@ With my insights, I decided to move in a different direction:
  
 This is because the new direction provides a focus as the problem lies with students engaging in class rather than on the Professor/Instructor side. From the interviews and insights, it was clear that Professors use strategies to engage students but ultimately it is up to the student to put in that effort. This creates a question of if a student doesn’t engage and becomes “invisible.” How would the professor identify these “invisible” students who don’t engage? How can they identify these students to ensure that they are doing well? This created a lot of questions, which resulted in going back to the Define stage to further understand the problem space and identify a potential solution.
  
-With a new direction, I decided to do more design research like affinity mapping, more observational research, as is/to be scenarios, and needs statements, which led me to:
+I decided to do more design research like affinity mapping, more observational research, as is/to be scenarios, and needs statements, which led me to:
+ 
+![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
+
+![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
+
+![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
  
 > Professors/Instructors need a way to improve student engagement in an online class because it provides a meaningful connection between the course content and processor/instructor.
  
@@ -323,9 +275,7 @@ The feedback gained was:
  
 -	Thinking about how this data is used in the context of student engagement.
 -	At the end of the day, this data isn’t a representation of the student’s learning.
--	How it would be applied to a larger student class size.
 -	How different types of teachers would be comfortable looking at this data.
--	Providing “summary” e-mails to the Professor as a form of communication
  
 Using the feedback from user testing, several changes were made for the final prototype:
  
@@ -351,8 +301,6 @@ Several goals would benefit a Professor (or teacher) using this app:
 -	The app identifies who isn’t participating in the class, which would provide an opportunity to the Professor to follow up with the student or use other strategies for engagement in class (i.e. breakout rooms, group work).
 
 -	Providing a level of customizability for the Professor so they can compare other classes that they teach and see what strategies are working and what isn’t working.
-
--	Ultimately, all of this boils down to encouraging that interaction just like an in-class lecture would be. The psychological factor is that how we, as humans, expect the same social interactions as online interactions.
 
 <br>
 
