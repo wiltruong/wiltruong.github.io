@@ -86,13 +86,13 @@ To guide the project, I used two design principles and two psychological as a fo
 <col width="21%" />
 </colgroup>
   <tr>
-    <th align="center"><i class="fa fa-heart fa-5x"></i><br></th>
+    <th align="center"><i class="fa fa-layer-group fa-5x"></i><br></th>
     <th></th>
-    <th align="center"><i class="fa fa-meh fa-5x"></i><br></th>
+    <th align="center"><i class="fa fa-eye fa-5x"></i><br></th>
     <th></th>
-    <th align="center"><i class="fa fa-arrows-alt-h fa-5x"></i><br></th>
+    <th align="center"><i class="fa fa-smile-beam fa-5x"></i><br></th>
     <th></th>
-    <th align="center"><i class="fa fa-arrows-alt-h fa-5x"></i><br></th>
+    <th align="center"><i class="fa fa-user-friends fa-5x"></i><br></th>
   </tr>
   <tr>
     <td>&nbsp;</td>
@@ -135,13 +135,13 @@ I developed four assumptions that I went into the project – Before doing the r
 <col width="21%" />
 </colgroup>
   <tr>
-    <th align="center"><i class="fa fa-heart fa-5x"></i><br></th>
+    <th align="center"><i class="fa fa-camera fa-5x"></i><br></th>
     <th></th>
-    <th align="center"><i class="fa fa-meh fa-5x"></i><br></th>
+    <th align="center"><i class="fa fa-house-user fa-5x"></i><br></th>
     <th></th>
-    <th align="center"><i class="fa fa-arrows-alt-h fa-5x"></i><br></th>
+    <th align="center"><i class="fa fa-ban fa-5x"></i><br></th>
     <th></th>
-    <th align="center"><i class="fa fa-arrows-alt-h fa-5x"></i><br></th>
+    <th align="center"><i class="fa fa-people-arrows fa-5x"></i><br></th>
   </tr>
   <tr>
     <td>&nbsp;</td>
@@ -191,13 +191,13 @@ To fully understand what professors or teachers go through when teaching online,
 <col width="21%" />
 </colgroup>
   <tr>
-    <th align="center"><i class="fa fa-heart fa-5x"></i><br></th>
+    <th align="center"><i class="fa fa-chalkboard-teacher fa-5x"></i><br></th>
     <th></th>
-    <th align="center"><i class="fa fa-meh fa-5x"></i><br></th>
+    <th align="center"><i class="fa fa-video fa-5x"></i><br></th>
     <th></th>
-    <th align="center"><i class="fa fa-arrows-alt-h fa-5x"></i><br></th>
+    <th align="center"><i class="fa fa-frown fa-5x"></i><br></th>
     <th></th>
-    <th align="center"><i class="fa fa-arrows-alt-h fa-5x"></i><br></th>
+    <th align="center"><i class="fa fa-clock fa-5x"></i><br></th>
   </tr>
   <tr>
     <td>&nbsp;</td>
@@ -263,11 +263,11 @@ Synthesizing everything from my interviews, observations, and secondary research
 <col width="30%" />
 </colgroup>
   <tr>
-    <th align="center"><i class="fa fa-heart fa-5x"></i><br></th>
+    <th align="center"><i class="fa fa-chalkboard-teacher fa-5x"></i><br></th>
     <th></th>
-    <th align="center"><i class="fa fa-meh fa-5x"></i><br></th>
+    <th align="center"><i class="fa fa-people-carry fa-5x"></i><br></th>
     <th></th>
-    <th align="center"><i class="fa fa-arrows-alt-h fa-5x"></i><br></th>
+    <th align="center"><i class="fa fa-comment-alt fa-5x"></i><br></th>
   </tr>
   <tr>
     <td>&nbsp;</td>
