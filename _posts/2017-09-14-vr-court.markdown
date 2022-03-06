@@ -358,7 +358,7 @@ Using basic colours like white on the UI, made it clear to read and contrasted v
 
 As the team kept working on the technical aspects of the tool and the 3D environment, I wanted to help in some way as the UI and visual design were finalized. Some of the areas that I assisted, and I felt created an impact were:
 
->Addition of detail in the environment with small 3D items
+#### Addition of detail in the environment with small 3D items
 
 I wanted the environment to be realistic as possible and the idea that I brought to the team was to add in small objects that would simulate an office or courtroom setting. I and the team looked at various photos of UK courtrooms and determined from those references what kind of items we would add-in.
 
@@ -376,7 +376,7 @@ To save time, I modeled several things that I wouldn’t be able to find on the 
 
 <br>
 
->Debugging and error handling
+#### Debugging and error handling
 
 Debugging and error handling was something done towards the end of completing the prototype and during user testing. I would admit that it was something we haven’t considered due to the more important aspects of the tool, we had to implement but I still realized that this was very important that feedback should be given if something goes wrong.
 
