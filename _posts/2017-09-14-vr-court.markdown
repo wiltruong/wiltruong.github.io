@@ -282,22 +282,22 @@ I and a team member decided to let the students decide and see what level of inf
 <br>
 
 ![image]({{site.baseurl}}/assets/img/vc21.png)
-<i style="font-size:12px;">Ver A</i>
+<i style="font-size:12px;">Ver A. Please note the character image is a placeholder and would be replaced by 3D models.</i>
 
 <br>
 
 ![image]({{site.baseurl}}/assets/img/vc22.png)
-<i style="font-size:12px;">Ver A</i>
+<i style="font-size:12px;">Ver A. Please note the character image is a placeholder and would be replaced by 3D models.</i>
 
 <br>
 
 ![image]({{site.baseurl}}/assets/img/vc23.png)
-<i style="font-size:12px;">Ver B</i>
+<i style="font-size:12px;">Ver B. Please note the character image is a placeholder and would be replaced by 3D models.</i>
 
 <br>
 
 ![image]({{site.baseurl}}/assets/img/vc24.png)
-<i style="font-size:12px;">Ver B</i>
+<i style="font-size:12px;">Ver B. Please note the character image is a placeholder and would be replaced by 3D models.</i>
 
 <br>
 
