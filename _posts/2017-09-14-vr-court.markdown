@@ -444,6 +444,16 @@ The result of testing was very positive:
 
 <br>
 
+![image]({{site.baseurl}}/assets/img/vc43.png)
+<i style="font-size:12px;">Inside the menu/setup screen</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc44.png)
+<i style="font-size:12px;">Avatar edit/creation</i>
+
+<br>
+
 ### The Takeaways
 
 > Talking to the user base is important
