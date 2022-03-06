@@ -342,7 +342,8 @@ I kept things basic by using whites, blacks, and greys in the UI to focus on the
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/vc34.png)
+![image]({{site.baseurl}}/assets/img/vc38.png)
+<i style="font-size:12px;">Using basic colours allowed for the font to have great contrast against the background for heavy text descriptions</i>
 
 <br>
 
@@ -351,6 +352,7 @@ Using basic colours like white on the UI, made it clear to read and contrasted v
 <br>
 
 ![image]({{site.baseurl}}/assets/img/vc37.png)
+<i style="font-size:12px;">The UI is still very visible against the environment</i>
 
 <br>
 
