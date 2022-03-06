@@ -53,15 +53,7 @@ tags: [UX, UI, User Research, Design Research, Prototyping] # add tag
 
 ### Starting off the year with a thesis
 
-In my 4th year in the Interaction Design program, we have to do thesis projects that cumulate all the learnings that we went through in the program. Although, I think of this project as more of an exploration and learning of the topic that I’ve chosen.
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
-
-<br>
-
-My role for this project encompasses everything from ideation to research to create the final prototype. My goal for this exploration is to focus more on the design process and less on the final solution.
+In my 4th year in the Interaction Design program, we have to do thesis projects that cumulate all the learnings that we went through in the program. Although, I think of this project as more of an exploration and learning of the topic that I’ve chosen. y role for this project encompasses everything from ideation to research to create the final prototype. My goal for this exploration is to focus more on the design process and less on the final solution.
 
 <br>
 
@@ -249,6 +241,14 @@ For the dashboard, several changes were made:
 <br>
 
 ### Reflecting on the prototype
+
+At the end of this thesis, I decided not to pursue this topic of remote teaching and my prototype any further (instead I focused on accessibility, which is another thing!). My reasoning for this is that teaching remotely has so many factors and complexities in engaging students. From my interviews, I saw that:
+ 
+- Student engagement in classes isn’t an online problem but rather a general teaching problem. Online classes amplify the issue further due to the environment that students are in.
+- The environment that most students are in when doing online learning is very much not suited for synchronous learning. This is because there are many reasons why students don’t turn on their cameras or not participate in class, it could be that they don’t have a microphone or they don’t want other peers to see the room that they are living in.
+- A digital solution that encompasses an experience that is similar or close to in-person learning is simply impossible with today’s technology. It is very difficult to replicate an in-class experience because current digital tools cannot replicate the intimacy that a teacher-student has.
+ 
+Even though the prototype isn’t perfect, I do admit that it isn’t a great idea either. There are so many issues with visualizing data like this as it can produce wrong intentions to a student or create a misunderstanding. Although, I learned a lot and the most important thing that I’ll take away from this is my uttermost respect for teachers and professors teaching in this pandemic.
 
 <br>
 
