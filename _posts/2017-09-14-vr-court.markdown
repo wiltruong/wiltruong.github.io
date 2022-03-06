@@ -51,15 +51,318 @@ tags: [UX, UI, User Research, Visual Design, Internship]
 
 <br>
 
-### The challenges of remote learning
+### Start of the project
  
-Remote learning has been always challenging due to the absence of in-person learning, although technology has enhanced this through virtual environments that allow students to interact with content in different ways. Working with Open University, a fully online university, we were tasked to create a solution or an MVP (Most Viable Product) to enable UK students to learn more about the UK courtroom. Due to the pandemic, we learned that access to these courtrooms was restricted and found out that Law students participate in “mooting”, which were mock trials – To compete and develop their communication and presentation skills. This was another use case that we saw as an opportunity that we could create.
+Online learning has always been available, even pre-pandemic as it comes with many advantages like learning at your own pace and the flexibility of learning anywhere. This project is a collaboration between two schools, Open University in the United Kingdom and Sheridan College in Canada.
+
+The team consisted of myself, two other Interaction Design students in the program, and a supervisor who overlooked our progress and acted as an advisor/mentor. We all had different skill sets and specializations, which made the project very unique and possible – I wouldn’t be able to do it without them!
  
 <br> 
  
-### The start of a long journey
+### Our process and team
  
-We followed a design process that was developed by IDEO from the book called Design Thinking for Educators. It is focused on designing for students, so was perfect for us. The design process consisted of a framework of:
+For our process, we adopted IDEO’s human-centered design process:
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc1.png)
+<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
+
+<br>
+
+There were several factors why we decided on using this process:
+
+- Using a structured design process would help us establish realistic deliverables
+- It gives us the opportunity to think about each process and how we can tackle them with our constraints
+- It sets up for success!
+
+As we started with the project, I saw each of us in the team having unique skill sets:
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc2.png)
+<i style="font-size:12px;">Our specializations and roles!</i>
+
+<br>
+
+There was a big opportunity to collaborate on various features and ultimately, we decided on working in UX and UR as a team at the beginning (since we were all Interaction Design students) and then utilizing each of our strengths as individuals for the development phase of the project. We did it this way because it was the most efficient to go about in this project without too much overlap, and it assigned a team member as a “lead” on their specialization! For example, we had a team member teach us how to create character customizations via blend shapes in Blender.
+
+<br>
+
+### Our research plan
+
+Starting off the Discovery phase in the design process, we had to decide on what we really needed to focus on as OU wanted the tool to be a “virtual courtroom” simulator that is very similar to a video game.
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc3.png)
+<i style="font-size:12px;">The spec sheet that OU provided to us</i>
+
+<br>
+
+Even though OU had specifications on what they wanted, we had three major constraints:
+  
+- Time: we only have three months
+- Our technical knowledge for developing the tool: what OU wanted in regard to certain features not feasible due to our technical knowledge
+- Technology: some aspects of technology is simply not possible and needed something custom
+
+These constraints dictated our decisions moving forward in our research plan, which provided us a path to focusing our efforts in doing primary and secondary research. With this in mind, we decided to focus on:
+
+- Create assumptions on what students would want and the prototype itself, based on some of the specifications OU had in mind
+- Understanding the landscape of Education Technology
+- Deciding on what to focus on the constraints we had
+
+With a research plan solidified in hand, we did a lot of design research activities ranging from trends/competitor analysis to user spectrums to a defined features page (what we are focusing on).
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc4.png)
+<i style="font-size:12px;">Convergence map</i>
+  
+<br> 
+  
+![image]({{site.baseurl}}/assets/img/vc6.png)
+<i style="font-size:12px;">Competitor analysis</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc7.png)
+<i style="font-size:12px;">From and To Exploration</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc8.png)
+<i style="font-size:12px;">Assumptions on essential features for the tool</i>
+
+<br>
+
+### Research methodology and results
+
+Going into the Interpretation Phase, where we did most of our primary research - We did surveys and interviews with OU Law students, alumni, and also industry to gain an understanding of UK Law and what students wanted in a “virtual courtroom” environment.
+
+Our research data became very clear when we saw:
+
+- Students wanting a tool that goes beyond Zoom or Teams for doing mock trials, as they wanted a real experience rather than looking at screens
+- The importance of video camera feeds to understand the opposition or judge’s faces when they are doing their submissions
+- Majority of students use laptops, so we had to keep in mind that there are technical limitations such as low-to-medium end hardware
+
+With all this research conducted, we saw opportunities in the 3D space – Although we considered a wide variety of options such as:
+
+- 2D High Dynamic Range Video
+- A “deluxe” zoom
+- 2D Virtual Environment that is top-down
+
+We gravitated towards using Unity as a development platform because it had the technology we needed for video and multiplayer functionality. This allowed us to use third-party plugins for the features to be implemented, so we can be efficient in putting together the prototype in less than three months.
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc9.png)
+<i style="font-size:12px;">We created a proof of concept prototype early on in the project</i>
+
+<br>
+
+As we moved into the Ideation Phase, each of us separated in focusing on different aspects of the tool. This included prototyping to setting up the back-end for multiplayer to building the environments in Blender.
+
+<br>
+
+### Visual design
+
+I handled the visual design for the tool including things like iconography, branding, and also typography. Keeping in mind my goal of keeping things simple for the student, I decided to use the theme of simplicity for the visual design in the tool.
+
+One of the challenges that I encountered was the tool’s purpose was a learning tool and not a game, this changed a lot of the visual design because I had to think of it in a different direction. The importance that this was a learning tool rather than a video game kicked in when we were doing interviews.
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc10.png)
+<i style="font-size:12px;">Very early mock up of role selection</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc11.png)
+<i style="font-size:12px;">Very early mock up of room selection</i>
+
+<br>
+
+Typography was very important to me and I spent a lot of time picking various fonts that would suit the tool. Originally, I selected a font called Industry because of the name “virtual courtroom”. I wanted something futuristic but I was concerned that using display fonts would be difficult to read for some people.
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc12.png)
+<i style="font-size:12px;">Expermenting with fonts on the menu screen</i>
+
+<br>
+
+I gravitated towards using New Hero and Roboto because they were fonts designed for the digital screen and were very easy to read and identify. New Hero had some meaning behind the text where it was designed for “heroes”, where I thought that today’s lawyers are heroes defending their defendant (in a way).
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc13.png)
+<i style="font-size:12px;">Using the fonts New Hero on avatar customization</i>
+
+<br>
+
+Keeping the simplicity theme was fairly straightforward to design because there weren’t many graphics since the goal was function over form. Having that minimalistic look also helped with the visual design and the majority of students who tested the tool liked the overall look of the UI and visual aspects of the tool. I kept the iconography relatively simple because I believed that icons should be easily identifiable at first glance - The tool didn’t require too many icons, other than the key binds.
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc14.png)
+<i style="font-size:12px;">Iconography</i>
+
+<br>
+
+In addition to the iconography, I worked on the branding of the tool which was the logo to be placed on the menu screen and also to be used in different things like the launch icon and documentation. I experimented with a team member on various concepts, using courtroom iconic things like the scales, gavel, and other things for the logo.
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc15.png)
+<i style="font-size:12px;">Initial concepts</i>
+
+<br>
+
+As we found out from the OU team, they mentioned that the gavel isn’t represented much in actual law but rather in movies or TV shows. We found that interesting as we didn’t realize this and decided to use scales as a better representation of the law.
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc16.png)
+<i style="font-size:12px;">More iteration of logos</i>
+
+<br>
+
+As I went through iterations of different logos, my goal was to incorporate two things into the logo:
+
+- Diversity and inclusion
+- The formalities of the court
+
+I believed in diversity and inclusion as it was equally important to Open University, they believed that everyone should have access to education - Regardless of their standing. I wanted to incorporate this with different colours, symbolizing the various races we have in the world.
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc17.png)
+<i style="font-size:12px;">Final logo</i>
+
+<br>
+
+With the final logo, I used a half and half concept where one side symbolizes the idea of a formal courtroom, while the other symbolizes the idea of diversity and inclusion in the courtroom. This was important to all of us in the team because we were always focused on inclusion when creating the tool, especially designing the character creation.
+
+For the font, I used New Hero and also Freight. I wanted to keep a formal tone with the word courtroom, which was why I used a serif font (Freight). While keeping it modern with the word “virtual”, using the font I selected for the UI, New Hero.
+
+<br>
+
+### UI Design
+
+I was focused on the UI Design of the tool, which led to several challenges that I encountered when I was developing the UI design for the tool:
+
+>From the surveys and interviews we performed with students, a trend of “I’m not tech-savvy” or “I don’t play video games” was commonly said among students. This made me focus on making it as simple as possible, so it can be straightforward and intuitive.
+
+This resulted in collaborating with a team member to create a user flow to envision what a student would go through in the menus of the tool. Our goal was to keep it as simple as possible by using simple UI text that can be easily distinguishable like “Explore the Courtroom” or “Moot practice”. I also implemented additional descriptions, so students can be very clear on what they were hovering over or clicking on.
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc18.png)
+<i style="font-size:12px;">Menu user flow</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc19.png)
+<i style="font-size:12px;">Wireframes</i>
+
+<br>
+
+Refining the copywriting and UI text was very important, which led me to work with the OU team to further refine and make it consistent with UK English.
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc20.png)
+<i style="font-size:12px;">The Excel sheet we worked off from, there was a lot of text!</i>
+
+<br>
+
+>The amount of information being shown was another area of challenge, as we didn’t want to overload the student with so much information. Although, my goal was to keep it simplistic – While another team member had a different vision on how it would be structured.
+
+I and a team member decided to let the students decide and see what level of information density they preferred. We did an A/B test with several students on two versions of the UI in an interactive mock-up in Adobe XD using scenarios to test:
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc21.png)
+<i style="font-size:12px;">Ver A</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc22.png)
+<i style="font-size:12px;">Ver A</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc23.png)
+<i style="font-size:12px;">Ver B</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc24.png)
+<i style="font-size:12px;">Ver B</i>
+
+<br>
+
+I suggested doing an A/B test because I wanted to find out what students preferred in regard to the visual design of the UI, in addition to the level of information being shown in either of the versions. As these students haven’t encountered many video games before, it can be frustrating when you are confused about where to click or navigate – So my goal was to reduce that frustration.
+
+The findings from the test were split as some students preferred a simplistic approach, while some liked a denser approach in the other version of the UI. Using the feedback provided, I had to balance both opinions of what students wanted and my vision of the UI for the tool.
+
+<br>
+
+>Another challenging aspect was adding things that students wanted like a timer and a clock to keep track of time
+
+From our interviews, students wanted a timer and a clock as it helped them keep track of their submissions when they were presenting. Typically, if this was done via Zoom or Teams – Someone would indicate to the student by a sign or gesture that they have 5 minutes left. This wasn’t particularly effective as it could be missed by the student. This got me thinking of adding these features to the UI so that it would help students:
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc25.png)
+<i style="font-size:12px;">HUD</i>
+
+<br>
+
+Locations of the timer and clocks were placed in the corners of the screen as not to distract the student when doing their submission. The idea was that since it was in the corner, a student can easily glance at it during their submission. Although, some students requested that they don’t want the timer or other aspects of the UI as it could be distracting – This was resolved by implementing the ability to turn off different parts of the UI on and off in the options.
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc26.png)
+
+<br>
+
+I wanted the UI to fully customizable as possible because it allows students to tailor the tool to their needs. Not every student would like a timer, as students brought up to me during user testing and it was something I fully understood through various video games where UI customizability was key.
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc27.png)
+
+<br>
+
+>Colour was another large challenge due to how the environment’s lighting was set up in the tool.
+
+I kept things basic by using whites, blacks, and greys in the UI to focus on the environment rather than the UI itself. The 3D environment was a little dark due to the lighting nodes placed around the environment and we had to be very careful not to overdo it with the lighting.
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc27.png)
+<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
+
+<br>
+
+Using basic colours like white on the UI, made it clear to read and contrasted very well with the environment - Since the environment was very muted in colours (except for the hallway since there were pictures).
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc27.png)
+<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
+
+<br>
+
+### Debugging, 3D modeling, and a lot more
+
+As the team kept working on the technical aspects of the tool and the 3D environment, I wanted to help in some way as the UI and visual design were finalized. Some of the areas that I assisted, and I felt created an impact were:
+
+>Addition of detail in the environment with small 3D items
+
+I wanted the environment to be realistic as possible and the idea that I brought to the team was to add in small objects that would simulate an office or courtroom setting. I and the team looked at various photos of UK courtrooms and determined from those references what kind of items we would add-in.
 
 <br>
 
@@ -68,361 +371,104 @@ We followed a design process that was developed by IDEO from the book called Des
 
 <br>
 
-Following this framework provided us a structure when designing and performing user testing on our prototypes.
+To save time, I modeled several things that I wouldn’t be able to find on the Unity store or places that offered free 3D models. I wanted to save a lot of time, which finding models that were free for some objects like plants or books – Made things a lot more efficient rather than modeling them from scratch.
 
 <br>
 
-### Delving into Education Technology
- 
-To start the project, we started the Discovery phase by doing design and secondary research. From our preliminary research, we found:
- 
-- Education Technology continues to evolve by using VR to simulate real-life professional experiences like health care
-- With the pandemic, the majority of Law schools are going online
-- There are existing technologies that actual courts use (during the pandemic) for their trials, such as software like Zoom or Teams
- 
-This secondary research provided a general idea on the Education Technology area and what was available. We saw Unity and its applications of Education Technology in the form of simulations in health care and automotive. This was what OU was looking for, a virtual courtroom where students can go into 
-a 3D environment with avatars and learn the basics of the courtroom via interactions around the area. As we proceeded to do primary research, we found that what OU wanted was opposite what students needed.
+![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
+<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
 
 <br>
 
-### Research and more research
- 
-To get a better idea of what students wanted, me and my team went to perform surveys on students in the Law program. Our goal through these surveys was to:
+>Debugging and error handling
+
+Debugging and error handling was something done towards the end of completing the prototype and during user testing. I would admit that it was something we haven’t considered due to the more important aspects of the tool, we had to implement but I still realized that this was very important that feedback should be given if something goes wrong.
 
 <br>
 
-<table>
-<colgroup>
-<col width="30%" />
-<col width="5%" />
-<col width="30%" />
-<col width="5%" />
-<col width="30%" />
-</colgroup>
-  <tr>
-    <th align="center"><i class="fas fa-microchip fa-5x"></i><br></th>
-    <th></th>
-    <th align="center"><i class="fas fa-level-up-alt fa-5x"></i><br></th>
-    <th></th>
-    <th align="center"><i class="fas fa-smile fa-5x"></i><br></th>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="center" style="vertical-align: top;">Determine the level of technology that students have</td>
-    <td></td>
-    <td align="center" style="vertical-align: top;">What is their comfort level with technology</td>
-    <td></td>
-    <td align="center" style="vertical-align: top;">What are their expectations of a Virtual Courtroom</td>
-  </tr>
-</table>
+![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
+<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
 
 <br>
 
-Our findings were:
+Being inspired by vague error messages in video games, my goal was to be as clear as possible to let the student know what the error is.
 
 <br>
 
-<table>
-<colgroup>
-<col width="30%" />
-<col width="5%" />
-<col width="30%" />
-<col width="5%" />
-<col width="30%" />
-</colgroup>
-  <tr>
-    <th align="center"><i class="fas fa-laptop fa-5x"></i><br></th>
-    <th></th>
-    <th align="center"><i class="fas fa-cubes fa-5x"></i><br></th>
-    <th></th>
-    <th align="center"><i class="fas fa-exclamation fa-5x"></i><br></th>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="center" style="vertical-align: top;">73% had laptops compared to 27% had desktops. This indicated the level of technology that students had, which we kept in mind regarding graphical requirements of the tool</td>
-    <td></td>
-    <td align="center" style="vertical-align: top;">Student’s expectations of a “virtual courtroom” were a 3D courtroom environment that extended functionality beyond a Zoom or MS Teams call</td>
-    <td></td>
-    <td align="center" style="vertical-align: top;">The importance of mooting for students (mock trials), as it was a core activity for Law students at the OU Law program</td>
-  </tr>
-</table>
+### The result and user testing
 
-<br>
- 
-We also interviewed current students, alumni (recent graduates), and lawyers who judge moots, to gain a further understanding of what their needs were and to get an idea of how these mock trials were run. 
- 
-From our interviews, we found:
+As the MVP is finalized in the last few weeks of the project, such as final UI implementation, 3D environment work, and character customization, we tested the MVP with 10 students and 3 alumni. We tested over a period of two weeks and continuously iterated and debugged after each test was run.
 
-- When doing mooting (mock trials) virtually, video was very important as the student would read the judge's expressions and body lanugage when they are presenting their submissions
-- Students want additional tools to help them track specific things like time and notes, which meant that they wanted similar things like an in-person mooting session would have
-- The need for a higher-level interactive experience compared to Zoom or MS Teams
- 
-It was quite clear that students want a tool to facilitate and learn mooting compared to what OU thought, was a tool to learn about the courtroom. This was in line with our assumptions that students wanted both.
+Some of the goals of testing were:
 
-<br>
+- Exploration: we wanted to see if students are able to get around without any issues and the environment was free of issues (i.e. falling through the environment, any open spaces due to modeling)
+- Feel of controls: I was very concerned that the controls will be hard for students as they told us they don’t play video games
+- UI: Can the student understand the menu and navigate around easily?
 
-### What are our options?
- 
-Moving to the Ideation phase, we weighed our options:
+The result of testing was very positive:
 
-<br>
-
-<table>
-<colgroup>
-<col width="30%" />
-<col width="5%" />
-<col width="30%" />
-<col width="5%" />
-<col width="30%" />
-</colgroup>
-  <tr>
-    <th align="center"><i class="fas fa-vr-cardboard fa-5x"></i><br></th>
-    <th></th>
-    <th align="center"><i class="fas fa-chalkboard-teacher fa-5x"></i><br></th>
-    <th></th>
-    <th align="center"><i class="fas fa-cube fa-5x"></i><br></th>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="center" style="vertical-align: top;">Virtual Reality: We looked at this during our Ideation phase and saw it was not feasble due to the cost of the technology required for students and the hardware needed to power it.</td>
-    <td></td>
-    <td align="center" style="vertical-align: top;">Deluxe Zoom: Students we spoke with felt that Zoom or Teams was not immersive and didn't provide an experience close to a in-person mooting (mock trial) session.</td>
-    <td></td>
-    <td align="center" style="vertical-align: top;">3D Virtual Environment: The use of avatars in a courtroom environment would provide a level of immersion and also interaction, since it would be multiplayer. We looked into Unity and saw a big opportunity in integrating different technologies to make this possible.</td>
-  </tr>
-</table>
-
-<br>
- 
-We picked a 3D virtual environment using Unity as a development platform. Based on our primary research, students wanted an interactive experience that used video and audio. Since Unity was very flexible as a development platform (i.e. video, audio, matchmaking), we saw an opportunity to use it for the MVP.
-
-<br>
- 
-### Prototyping and beyond
- 
-While my team members focused on other aspects of the MVP like the back end, 3D modeling, and development, my focus was the UI and visual design of the tool. I started creating a user flow in how students would navigate their way into the tool. My goals were to be as simple as possible because, from the surveys and research we performed, these students don’t have much technical knowledge so creating something straightforward will avoid problems.
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/vr-ft-3.png)
-<i style="font-size:12px;">Menu flow</i>
-
-<br>
-
-I also wanted an interesting way that would attract students to use this tool as we also found out that, not every student wants an extra piece of software to install or use. Some prefer the ease of use of Zoom or MS Teams, as it is very simple to set up. This was when I experimented with 3D menus, where it uses a 3D environment as a menu. The goal was to have something attractive while pushing the boundaries of UI design.
-
-<br>
-
-<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/RSbapMcYYLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<br>
-
-Although my concern was that this would be more diegetic rather than functional, so the idea was scrapped for something more straightforward:
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/vr-ft-21.png)
-<i style="font-size:12px;">Wireframes</i>
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/vr-ft-4.png)
-<i style="font-size:12px;">First iteration - Menu</i>
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/vr-ft-5.png)
-<i style="font-size:12px;">First iteration - Mode select</i>
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/vr-ft-6.png)
-<i style="font-size:12px;">First iteration - Role select</i>
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/vr-ft-7.png)
-<i style="font-size:12px;">Second iteration - Menu</i>
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/vr-ft-8.png)
-<i style="font-size:12px;">Second iteration - Join screen</i>
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/vr-ft-9.png)
-<i style="font-size:12px;">Second iteration - Avatar edit</i>
-
-<br>  
-  
-### A new challenger appears
- 
-Several challenges came about when designing the UI was carefully balancing the amount of information shown in the user interface. Since we saw from our primary research that the technology level is relatively low, we had to make it straightforward as possible.
- 
-Although this was difficult due to the features, we wanted to incorporate such as character creation. Some of these systems like avatar editing, the connection screen, and even movement, were borrowed from game design concepts. Since the students we interviewed and surveyed didn’t have much knowledge of games, we had to confirm our assumptions through user testing the UI with a few students.
- 
-<br>  
-  
-### Testing, testing, and more testing
- 
-User testing was done to identify areas of improvement in the user flow, text, and any other issues in the UI. Since this was an initial passthrough, we tested via a digital prototype in Adobe XD. I performed tests using scenarios with a few students, which resulted in feedback:
- 
-- The UI was straightforward and intuitive
-- Liked the customization options
-- Students liked the overall visual design of the UI and menus
- 
-Although, some pain points were:
- 
-- The language used was vague and it should match what Law students are used to
-- Having a balance of information and white space, so it doesn’t look cluttered
-- Some systems were unclear like interactions and movement
- 
-Along with this feedback, I focused on a few things:
-
-
-<br>
-
-<table>
-<colgroup>
-<col width="30%" />
-<col width="5%" />
-<col width="30%" />
-<col width="5%" />
-<col width="30%" />
-</colgroup>
-  <tr>
-    <th align="center"><i class="fas fa-font fa-5x"></i><br></th>
-    <th></th>
-    <th align="center"><i class="fas fa-sticky-note fa-5x"></i><br></th>
-    <th></th>
-    <th align="center"><i class="fas fa-language fa-5x"></i><br></th>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="center" style="vertical-align: top;">Implementing a font that would be easy to read</td>
-    <td></td>
-    <td align="center" style="vertical-align: top;">Tutorials when the student enters the count room for movement and interactions</td>
-    <td></td>
-    <td align="center" style="vertical-align: top;">Adjusting the language of the UI, so it is more familiar with Law students</td>
-  </tr>
-</table>
-
-<br> 
-
-### The final UI
- 
-The most important aspect that was changed was simplifying the UI but also having a level of detail. This meant re-visiting fonts, the text, and also refining the overall layout of the UI. This came with changes to the user flow to keep it even more straightforward, so there wouldn’t be any frustration on the other side. Further features were added such as UI customization, being able to turn certain aspects of the UI on and off – This was to prevent distractions for the students when they are presenting their submissions in the mock trial.
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/vr-ft-10.png)
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/vr-ft-11.png)
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/vr-ft-12.png)
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/vr-ft-13.png)
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/vr-ft-14.png)
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/vr-ft-15.png)
-  
-<br>
- 
-### Putting it all together
- 
-As the MVP started to take shape with the work from my team members and the UI was close to being finalized, I started working on different aspects of the 3D environment. Things like adding small objects to make the environment more realistic and implementing features that OU wanted. Such features were:
- 
-- An information system that the student can interact with to get information about the history of the courtroom
-- Sitting and standing
-- Further enhancements to the environment such as signage and small objects to create more realism and detail
-  
-<br> 
-  
-### Even more testing
- 
-As the MVP is finalized in the last few weeks of the project, such as final UI implementation, 3D environment work, and character customization, we tested the MVP with students to get an understanding of what can be improved in a short duration of time. We also wanted to get a general idea of what students thought of the tool and how they can use it for other things. What we found was:
- 
 - Students were generally positive and excited about the tool as they haven’t encountered something like this in their program
-- It would be very useful for first- and second-year students to learn about the UK courts through this tool as it is almost accurate to the real thing
-- Students we tested with saw an opportunity of using the tool for social gatherings, since there was a webcam feed and audio
 - Students felt very intimate just like in real life due to the moving avatars, webcam, and audio. They mentioned that it felt like an actual physical interaction but digitally
 - The overall UI was very positive as students were able to connect to a room without issues and were very appreciative of the tutorials provided as some students were not familiar with controls from video games (WASD)
-- Students were very much appreciative about the level of detail that we put, such as books, cups, plants, and such, that would mimic a courtroom environment.
 
-<br>  
-  
+<br>
+
 ### Final MVP
- 
-<br>
- 
-![image]({{site.baseurl}}/assets/img/vr-ft-16.png)
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/vr-ft-17.png)
+![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
+<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/vr-ft-18.png)
+![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
+<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/vr-ft-19.png)
+![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
+<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/vr-ft-20.png)
-  
+![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
+<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
+
 <br>
-  
+
+![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
+<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
+<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
+<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
+<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
+
+<br>
+
 ### The Takeaways
- 
+
 > Talking to the user base is important
- 
+
 I learned that talking to users was very important to identify their needs. Talking to the OU Law students was very important and proved our assumptions at the start of the project. What OU assumed was way different compared to what students told us, which was that they wanted an interactive experience with video – Rather than a virtual world with just simply avatars. We saw the tool providing a way for students to practice their presentation skills in a safe environment without trouble.
- 
+
 > Working collaboratively with team members who have different skillsets
- 
-This was the first time that I worked with two other peers from the Interaction Design program in this internship, who had different skill sets than myself. I learned to rely on my team members when I have problems like in Unity, coding, or 3D modeling. Relying on my teammates when I need it is great as they have some skills that I don’t necessarily have. In addition, if my teammates are having trouble, they can lean on me for help – Whether if it is design-related or anything in-between.
- 
+
+This was the first time that I worked with two other peers from the Interaction Design program in this internship, who had different skill sets than myself. I learned to rely on my team members when I have problems like in Unity, coding, or 3D modeling. Relying on my teammates when I need it is great as they have some skills that I don’t necessarily have. In addition, if my teammates are having trouble, they can lean on me for help – Whether it is design-related or anything in-between.
+
 > The value of user testing and proving assumptions
- 
+
 Throughout this project, we user-tested with students to ensure that we are on the right track. I learned that doing this keeps us on our toes as sometimes students find things that we don’t realize that would be an issue. For example, a student pointed out that the signage should be improved as it was a bit confusing. Originally, I added the signage to make it realistic but didn’t realize that it would help students to find their way around the 3D environment. By constantly getting users involved with the design process, I learned that feedback will shape the final product that the students could happily use in the end.
 
 <br>
