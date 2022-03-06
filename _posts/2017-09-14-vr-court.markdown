@@ -275,7 +275,7 @@ Refining the copywriting and UI text was very important, which led me to work wi
 
 <br>
 
->The amount of information being shown was another area of challenge, as we didn’t want to overload the student with so much information. Although, my goal was to keep it simplistic – While another team member had a different vision on how it would be structured.
+#### The amount of information being shown was another area of challenge, as we didn’t want to overload the student with so much information. Although, my goal was to keep it simplistic – While another team member had a different vision on how it would be structured.
 
 I and a team member decided to let the students decide and see what level of information density they preferred. We did an A/B test with several students on two versions of the UI in an interactive mock-up in Adobe XD using scenarios to test:
 
