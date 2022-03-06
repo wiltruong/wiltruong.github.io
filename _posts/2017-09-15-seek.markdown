@@ -61,40 +61,28 @@ The topic or space that I’ve chosen was teaching in post-secondary remote onli
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+![image]({{site.baseurl}}/assets/img/sk1.png)
 <i style="font-size:12px;">A common occurrence with my classes these days</i>
 
 <br>
 
 ### The process
 
-To structure the project, I used the tried and true Double Diamond Design Process. I wanted to use this design process to give me the chance to think in each phase of the project and set myself for success.
+To structure the project, I used the tried and true Double Diamond Design Process. I wanted to use this design process to give me the chance to think in each phase of the project and set myself for success. Using the design process provided a focus on research, which I wanted to do to understand what professors go through when they teach online. This also provided a good idea of what I needed to do, how to do it, and what to look for when doing research.
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
-
-<br>
-
-Using the design process provided a focus on research, which I wanted to do to understand what professors go through when they teach online. This also provided a good idea of what I needed to do, how to do it, and what to look for when doing research.
+![image]({{site.baseurl}}/assets/img/sk2.png)
 
 <br>
 
 ### Planning and assumptions
 
-Having used an established process, I needed to start planning on what things I needed to do for the project. Doing this in 7 weeks is a huge challenge and I had to plan every step to ensure that I hit specific deadlines and not be behind on work (and other courses).
+Having used an established process, I needed to start planning on what things I needed to do for the project. Doing this in 7 weeks is a huge challenge and I had to plan every step to ensure that I hit specific deadlines and not be behind on work (and other courses). Most importantly, I needed to set assumptions on what I thought professors are currently going through and this became important as I needed to prove these assumptions through my primary and secondary research.
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
-
-<br>
-
-Most importantly, I needed to set assumptions on what I thought professors are currently going through and this became important as I needed to prove these assumptions through my primary and secondary research.
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+![image]({{site.baseurl}}/assets/img/sk3.png)
 
 <br>
 
@@ -102,7 +90,7 @@ I also looked into what design principles and psychological factors to use as th
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+![image]({{site.baseurl}}/assets/img/sk4.png)
 
 <br>
 
@@ -110,15 +98,15 @@ In addition to this, I worked on initial design research to find that focus with
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+![image]({{site.baseurl}}/assets/img/sk5.png)
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+![image]({{site.baseurl}}/assets/img/sk6.png)
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+![image]({{site.baseurl}}/assets/img/sk7.png)
 
 <br>
 
@@ -141,11 +129,11 @@ I was very interested in interviewing TA’s because since they were students to
 
 <br>  
 
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+![image]({{site.baseurl}}/assets/img/sk8.png)
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+![image]({{site.baseurl}}/assets/img/sk9.png)
 
 <br>
 
@@ -169,17 +157,14 @@ This quote from one professor that I interviewed hit me as I realized as a stude
 
 With a new direction, I looked back into my research data which resulted in looking at the technology used for online classes. Such things that I looked at were:
 
--         Virtual Avatars
--         Virtual Spaces
--         A standalone platform like Zoom
+<br>
+
+![image]({{site.baseurl}}/assets/img/sk10.png)
+<i style="font-size:12px;">I considered a lot of different solutions and possible platforms</i>
+
+<br>
 
 I looked at these solutions because I wanted to create some level of intimacy similar to an in-person class experience. The idea of looking around seeing your classmates in person, being in a classroom environment, and even looking at the professor, can create different emotions in the student. I wanted to simulate and create that immersion, but I recognized that it would be very difficult to replicate a physical environment to a digital environment.
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
-
-<br>
 
 It was very challenging because I was trying to put a measurement on student engagement. This brought me to the idea of how Zoom is frequently used for online classes. Through my observational research, I saw that the level of student engagement was high when doing discussions. One student would speak, and this would snowball to more students talking. This is very similar to in-class learning where students are afraid to speak up unless one of their peers does. It creates a comfortable environment to ask questions or say your opinion.
 
@@ -189,19 +174,15 @@ I saw this as an opportunity to use what Zoom has called “Zoom apps” and I f
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+![image]({{site.baseurl}}/assets/img/sk11.png)
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+![image]({{site.baseurl}}/assets/img/sk12.png)
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+![image]({{site.baseurl}}/assets/img/sk13.png)
 
 <br>
 
@@ -211,12 +192,12 @@ With my prototype, I wanted to show data visually because I wanted the professor
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+![image]({{site.baseurl}}/assets/img/sk14.png)
 <i style="font-size:12px;">Zoom app</i>
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+![image]({{site.baseurl}}/assets/img/sk15.png)
 <i style="font-size:12px;">The dashboard with data visualization</i>
 
 <br>
@@ -251,12 +232,12 @@ For the dashboard, several changes were made:
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+![image]({{site.baseurl}}/assets/img/sk16.png)
 <i style="font-size:12px;">Zoom app</i>
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+![image]({{site.baseurl}}/assets/img/sk17.png)
 <i style="font-size:12px;">The dashboard with data visualization</i>
   
 <br>
