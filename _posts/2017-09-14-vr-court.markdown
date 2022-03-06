@@ -206,7 +206,6 @@ Keeping the simplicity theme was fairly straightforward to design because there 
 <br>
 
 ![image]({{site.baseurl}}/assets/img/vc14.png)
-<i style="font-size:12px;">Iconography</i>
 
 <br>
 
@@ -215,7 +214,6 @@ In addition to the iconography, I worked on the branding of the tool which was t
 <br>
 
 ![image]({{site.baseurl}}/assets/img/vc15.png)
-<i style="font-size:12px;">Initial concepts</i>
 
 <br>
 
