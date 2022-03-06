@@ -53,15 +53,16 @@ tags: [UX, UI, User Research, Design Research, Prototyping] # add tag
 
 ### Starting off the year with a thesis
 
-In my 4th year in the Interaction Design program, we have to do thesis projects that cumulate all the learnings that we went through in the program. Although, I think of this project as more of an exploration and learning of the topic that I’ve chosen. y role for this project encompasses everything from ideation to research to create the final prototype. My goal for this exploration is to focus more on the design process and less on the final solution.
+In my 4th year in the Interaction Design program, we have to do thesis projects that cumulate all the learnings that we went through in the program. Although, I think of this project as more of an exploration and learning of the topic that I’ve chosen. My role for this project encompasses everything from ideation to research to create the final prototype. My goal for this exploration is to focus more on the design process and less on the final solution.
+
+<br>
+
+The topic or space that I’ve chosen was teaching in post-secondary remote online classes. I was very inspired to understand my professors and see if I could contribute or help them in any way. The pandemic hit them hard and I was very curious about how they felt teaching online classes when the pandemic started until today. 
 
 <br>
 
 ![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
- 
-<br>
- 
-The topic or space that I’ve chosen was teaching in post-secondary remote online classes. I was very inspired to understand my professors and see if I could contribute or help them in any way. The pandemic hit them hard and I was very curious about how they felt teaching online classes when the pandemic started until today. 
+<i style="font-size:12px;">A common occurrence with my classes these days</i>
 
 <br>
 
@@ -105,7 +106,23 @@ I also looked into what design principles and psychological factors to use as th
 
 <br>
 
-In addition to this, I worked on initial design research to find that focus within the remote teaching space. Doing design research activities like Hills Statements, Needs Statements, and such – Provided me a way to narrow down what I am trying to do in this project, which got me to:
+In addition to this, I worked on initial design research to find that focus within the remote teaching space. Doing design research activities like Hills Statements, Needs Statements, and such.
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+
+<br>
+
+This provided me a way to narrow down what I am trying to do in this project, which got me to:
  
 >Instructors/professors need a way to avoid pandemic fatigue because it is affecting their teaching and the engagement of students.
 
@@ -123,6 +140,10 @@ As with any project, primary research and secondary research were done. My focus
 I was very interested in interviewing TA’s because since they were students too, I assumed that the experience was very different compared to a professor teaching an official class. Although this was quite different after doing analysis using affinity mapping and other activities.
 
 <br>  
+
+![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+
+<br>
 
 ![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
 
@@ -160,19 +181,11 @@ I looked at these solutions because I wanted to create some level of intimacy si
 
 <br>
 
-It was very challenging because I was trying to put a measurement on student engagement, it has so many varying factors:
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
-
-<br>
-
-This brought me to the idea of how Zoom is frequently used for online classes. Through my observational research, I saw that the level of student engagement was high when doing discussions. One student would speak, and this would snowball to more students talking. This is very similar to in-class learning where students are afraid to speak up unless one of their peers does. It creates a comfortable environment to ask questions or say your opinion.
+It was very challenging because I was trying to put a measurement on student engagement. This brought me to the idea of how Zoom is frequently used for online classes. Through my observational research, I saw that the level of student engagement was high when doing discussions. One student would speak, and this would snowball to more students talking. This is very similar to in-class learning where students are afraid to speak up unless one of their peers does. It creates a comfortable environment to ask questions or say your opinion.
 
 I saw this as an opportunity to use what Zoom has called “Zoom apps” and I found it possible to use the raw data being outputted by Zoom to track microphone and video duration in a call or online class. This was when I started working on my prototype:
 
-Sketches
+#### Sketches
 
 <br>
 
@@ -192,13 +205,19 @@ Sketches
 
 <br>
 
-### User testing!
+### Initial prototype and user testing!
 
 With my prototype, I wanted to show data visually because I wanted the professor or user to view the data easily. By showing it in a visualization, the professor can find trends like perhaps on a certain time of the lecture that student engagement is very low. By identifying trends or patterns, the professor can take action on the problem such as creating discussions or activities that would engage the student in the course content.
 
 <br>
 
 ![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+<i style="font-size:12px;">Zoom app</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+<i style="font-size:12px;">The dashboard with data visualization</i>
 
 <br>
 
@@ -233,10 +252,12 @@ For the dashboard, several changes were made:
 <br>
 
 ![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+<i style="font-size:12px;">Zoom app</i>
 
 <br>
 
 ![image]({{site.baseurl}}/assets/img/sk-ft-6.png)
+<i style="font-size:12px;">The dashboard with data visualization</i>
   
 <br>
 
