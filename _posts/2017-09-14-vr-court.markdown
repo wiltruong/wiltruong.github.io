@@ -174,12 +174,12 @@ One of the challenges that I encountered was the tool’s purpose was a learning
 <br>
 
 ![image]({{site.baseurl}}/assets/img/vc10.png)
-<i style="font-size:12px;">Very early mock up of role selection</i>
+<i style="font-size:12px;">Very early mock up of role selection. Please note the character image is a placeholder and would be replaced by 3D models.</i>
 
 <br>
 
 ![image]({{site.baseurl}}/assets/img/vc11.png)
-<i style="font-size:12px;">Very early mock up of room selection</i>
+<i style="font-size:12px;">Very early mock up of room selection. Please note the character image is a placeholder and would be replaced by 3D models.</i>
 
 <br>
 
@@ -197,7 +197,7 @@ I gravitated towards using New Hero and Roboto because they were fonts designed 
 <br>
 
 ![image]({{site.baseurl}}/assets/img/vc13.png)
-<i style="font-size:12px;">Using the fonts New Hero on avatar customization</i>
+<i style="font-size:12px;">Using the fonts New Hero on avatar customization. Please note the character image is a placeholder and would be replaced by 3D models.</i>
 
 <br>
 
