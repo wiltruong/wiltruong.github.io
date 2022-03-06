@@ -252,7 +252,7 @@ For the font, I used New Hero and also Freight. I wanted to keep a formal tone w
 
 I was focused on the UI Design of the tool, which led to several challenges that I encountered when I was developing the UI design for the tool:
 
->From the surveys and interviews we performed with students, a trend of “I’m not tech-savvy” or “I don’t play video games” was commonly said among students. This made me focus on making it as simple as possible, so it can be straightforward and intuitive.
+#### From the surveys and interviews we performed with students, a trend of “I’m not tech-savvy” or “I don’t play video games” was commonly said among students. This made me focus on making it as simple as possible, so it can be straightforward and intuitive.
 
 This resulted in collaborating with a team member to create a user flow to envision what a student would go through in the menus of the tool. Our goal was to keep it as simple as possible by using simple UI text that can be easily distinguishable like “Explore the Courtroom” or “Moot practice”. I also implemented additional descriptions, so students can be very clear on what they were hovering over or clicking on.
 
@@ -309,7 +309,7 @@ The findings from the test were split as some students preferred a simplistic ap
 
 <br>
 
->Another challenging aspect was adding things that students wanted like a timer and a clock to keep track of time
+#### Another challenging aspect was adding things that students wanted like a timer and a clock to keep track of time
 
 From our interviews, students wanted a timer and a clock as it helped them keep track of their submissions when they were presenting. Typically, if this was done via Zoom or Teams – Someone would indicate to the student by a sign or gesture that they have 5 minutes left. This wasn’t particularly effective as it could be missed by the student. This got me thinking of adding these features to the UI so that it would help students:
 
@@ -336,14 +336,13 @@ I wanted the UI to fully customizable as possible because it allows students to 
 
 <br>
 
->Colour was another large challenge due to how the environment’s lighting was set up in the tool.
+#### Colour was another large challenge due to how the environment’s lighting was set up in the tool.
 
 I kept things basic by using whites, blacks, and greys in the UI to focus on the environment rather than the UI itself. The 3D environment was a little dark due to the lighting nodes placed around the environment and we had to be very careful not to overdo it with the lighting.
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/vc27.png)
-<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
+![image]({{site.baseurl}}/assets/img/vc34.png)
 
 <br>
 
@@ -351,8 +350,7 @@ Using basic colours like white on the UI, made it clear to read and contrasted v
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/vc27.png)
-<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
+![image]({{site.baseurl}}/assets/img/vc37.png)
 
 <br>
 
@@ -366,8 +364,7 @@ I wanted the environment to be realistic as possible and the idea that I brought
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
-<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
+![image]({{site.baseurl}}/assets/img/vc29.png)
 
 <br>
 
@@ -375,8 +372,7 @@ To save time, I modeled several things that I wouldn’t be able to find on the 
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
-<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
+![image]({{site.baseurl}}/assets/img/vc40.png)
 
 <br>
 
@@ -386,8 +382,11 @@ Debugging and error handling was something done towards the end of completing th
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
-<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
+![image]({{site.baseurl}}/assets/img/vc30.png)
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/vc31.png)
 
 <br>
 
@@ -417,43 +416,27 @@ The result of testing was very positive:
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
-<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
+![image]({{site.baseurl}}/assets/img/vc32.png)
+<i style="font-size:12px;">Playing around with the MVP!</i>
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
-<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
+![image]({{site.baseurl}}/assets/img/vc33.png)
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
-<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
+![image]({{site.baseurl}}/assets/img/vc34.png)
+<i style="font-size:12px;">Students can interact with picture frames in the hall way to learn a bit more about the history of the UK courtroom</i>
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
-<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
+![image]({{site.baseurl}}/assets/img/vc42.png)
+<i style="font-size:12px;">Exploration mode: In the court</i>
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
-<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
-<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
-<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/vr-ft-2.png)
-<i style="font-size:12px;">The design process from Design Thinking for Educators</i>
+![image]({{site.baseurl}}/assets/img/vc41.png)
+<i style="font-size:12px;">Exploration mode: Another view of the courts</i>
 
 <br>
 
