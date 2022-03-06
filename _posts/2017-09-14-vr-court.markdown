@@ -360,6 +360,8 @@ Using basic colours like white on the UI, made it clear to read and contrasted v
 
 As the team kept working on the technical aspects of the tool and the 3D environment, I wanted to help in some way as the UI and visual design were finalized. Some of the areas that I assisted, and I felt created an impact were:
 
+<br>
+
 #### Addition of detail in the environment with small 3D items
 
 I wanted the environment to be realistic as possible and the idea that I brought to the team was to add in small objects that would simulate an office or courtroom setting. I and the team looked at various photos of UK courtrooms and determined from those references what kind of items we would add-in.
