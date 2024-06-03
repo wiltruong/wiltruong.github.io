@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: wilson truong # add your name
 author-img:   # add your photo
-about-author: an ux / ui designer @ certain affinity, making great games # add description
+about-author: an ux / ui designer @ <a href="https://www.certainaffinity.com/">certain affinity</a>, making great games # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github:  # add your Github handle
