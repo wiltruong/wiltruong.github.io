@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: wilson truong # add your name
 author-img:   # add your photo
-about-author: an ux / ui / interaction designer who loves video games - currently @ certain affinity # add description
+about-author: an ux / ui designer @ certain affinity, making great games # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github:  # add your Github handle
@@ -17,7 +17,7 @@ social-linkedin: wiltruong # add your Linkedin handle
 social-email: hello@wilsontruong.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
